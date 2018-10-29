@@ -16,7 +16,7 @@
 </head>
 <body>
 
-<!--navbar--->
+
 <nav class="navbar navbar-inverse navbar-static-top" style="font-size: 20px; margin:0px">
         <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".mynavbar">
@@ -61,7 +61,7 @@
 
     </div>
 </nav>
-<!--carousel--->
+
 <div class=" mycarousel carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
         <li data-target=".mycarousel" data-slide-to="0" class="active"></li>
